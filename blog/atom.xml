@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-site.example.com/blog</id>
+    <id>https://your-docusaurus-site.example.com/my-website/blog</id>
     <title>My Site Blog</title>
-    <updated>2025-11-25T08:36:39.000Z</updated>
+    <updated>2025-11-25T08:40:13.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-site.example.com/blog"/>
+    <link rel="alternate" href="https://your-docusaurus-site.example.com/my-website/blog"/>
     <subtitle>My Site Blog</subtitle>
-    <icon>https://your-docusaurus-site.example.com/img/favicon.ico</icon>
+    <icon>https://your-docusaurus-site.example.com/my-website/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[First Blog Post-----555]]></title>
-        <id>https://your-docusaurus-site.example.com/blog/new/first-blog-post3</id>
-        <link href="https://your-docusaurus-site.example.com/blog/new/first-blog-post3"/>
-        <updated>2025-11-25T08:36:39.000Z</updated>
+        <id>https://your-docusaurus-site.example.com/my-website/blog/new/first-blog-post3</id>
+        <link href="https://your-docusaurus-site.example.com/my-website/blog/new/first-blog-post3"/>
+        <updated>2025-11-25T08:40:13.000Z</updated>
         <summary type="html"><![CDATA[什么是 Docusaurus？]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="什么是-docusaurus">什么是 Docusaurus？<a href="https://your-docusaurus-site.example.com/blog/new/first-blog-post3#%E4%BB%80%E4%B9%88%E6%98%AF-docusaurus" class="hash-link" aria-label="Direct link to 什么是 Docusaurus？" title="Direct link to 什么是 Docusaurus？" translate="no">​</a></h2>
+        <content type="html"><![CDATA[<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="什么是-docusaurus">什么是 Docusaurus？<a href="https://your-docusaurus-site.example.com/my-website/blog/new/first-blog-post3#%E4%BB%80%E4%B9%88%E6%98%AF-docusaurus" class="hash-link" aria-label="Direct link to 什么是 Docusaurus？" title="Direct link to 什么是 Docusaurus？" translate="no">​</a></h2>
 <p>Docusaurus 是由 Facebook（Meta）开源的一个现代化静态网站生成器，专门用于构建文档网站。它基于 React 构建，提供了开箱即用的功能，让你能够快速创建美观、易于维护的文档站点。</p>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="核心特性">核心特性<a href="https://your-docusaurus-site.example.com/blog/new/first-blog-post3#%E6%A0%B8%E5%BF%83%E7%89%B9%E6%80%A7" class="hash-link" aria-label="Direct link to 核心特性" title="Direct link to 核心特性" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="核心特性">核心特性<a href="https://your-docusaurus-site.example.com/my-website/blog/new/first-blog-post3#%E6%A0%B8%E5%BF%83%E7%89%B9%E6%80%A7" class="hash-link" aria-label="Direct link to 核心特性" title="Direct link to 核心特性" translate="no">​</a></h3>
 <ul>
 <li class=""><strong>简单易用</strong>：使用 Markdown 编写文档</li>
 <li class=""><strong>可定制化</strong>：支持 React 组件和自定义页面</li>
@@ -38,8 +38,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://your-docusaurus-site.example.com/blog/welcome</id>
-        <link href="https://your-docusaurus-site.example.com/blog/welcome"/>
+        <id>https://your-docusaurus-site.example.com/my-website/blog/welcome</id>
+        <link href="https://your-docusaurus-site.example.com/my-website/blog/welcome"/>
         <updated>2021-08-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
         <content type="html"><![CDATA[<p><a href="https://docusaurus.io/docs/blog" target="_blank" rel="noopener noreferrer" class="">Docusaurus blogging features</a> are powered by the <a href="https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog" target="_blank" rel="noopener noreferrer" class="">blog plugin</a>.</p>
@@ -52,7 +52,7 @@
 <li class=""><code>2019-05-30-welcome/index.md</code></li>
 </ul>
 <p>A blog post folder can be convenient to co-locate blog post images:</p>
-<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://your-docusaurus-site.example.com/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="Docusaurus Plushie" src="https://your-docusaurus-site.example.com/my-website/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg" width="1500" height="500" class="img_ev3q"></p>
 <p>The blog supports tags as well!</p>
 <p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content>
         <author>
@@ -69,8 +69,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[MDX Blog Post]]></title>
-        <id>https://your-docusaurus-site.example.com/blog/mdx-blog-post</id>
-        <link href="https://your-docusaurus-site.example.com/blog/mdx-blog-post"/>
+        <id>https://your-docusaurus-site.example.com/my-website/blog/mdx-blog-post</id>
+        <link href="https://your-docusaurus-site.example.com/my-website/blog/mdx-blog-post"/>
         <updated>2021-08-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
         <content type="html"><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer" class="">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer" class="">MDX</a>.</p>
@@ -87,8 +87,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Long Blog Post]]></title>
-        <id>https://your-docusaurus-site.example.com/blog/long-blog-post</id>
-        <link href="https://your-docusaurus-site.example.com/blog/long-blog-post"/>
+        <id>https://your-docusaurus-site.example.com/my-website/blog/long-blog-post</id>
+        <link href="https://your-docusaurus-site.example.com/my-website/blog/long-blog-post"/>
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
         <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p>
@@ -118,8 +118,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://your-docusaurus-site.example.com/blog/first-blog-post</id>
-        <link href="https://your-docusaurus-site.example.com/blog/first-blog-post"/>
+        <id>https://your-docusaurus-site.example.com/my-website/blog/first-blog-post</id>
+        <link href="https://your-docusaurus-site.example.com/my-website/blog/first-blog-post"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet...]]></summary>
         <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
@@ -137,8 +137,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://your-docusaurus-site.example.com/blog/first-blog-post2</id>
-        <link href="https://your-docusaurus-site.example.com/blog/first-blog-post2"/>
+        <id>https://your-docusaurus-site.example.com/my-website/blog/first-blog-post2</id>
+        <link href="https://your-docusaurus-site.example.com/my-website/blog/first-blog-post2"/>
         <updated>2019-05-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet...]]></summary>
         <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
